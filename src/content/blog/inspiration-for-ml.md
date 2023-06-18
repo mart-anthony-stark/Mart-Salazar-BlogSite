@@ -16,6 +16,11 @@ description: Discover sources of inspiration for machine learning and reignite y
 
 Machine learning is a fascinating field that has revolutionized various industries, from healthcare to finance to transportation. However, even the most passionate data scientists and machine learning practitioners can sometimes find themselves lacking inspiration or hitting a roadblock in their projects. If you're feeling stuck or in need of motivation, here are some sources of inspiration that can reignite your enthusiasm for machine learning.
 
+<div style="text-align:center">
+    <img src="/robot-ml.webp" alt="Image Description">
+    <p style="text-align:center"><em>Image Source: Thermo Fisher Scientific — Machine Learning is a subset of AI.</em></p>
+</div>
+
 ## How It Started
 
 To truly appreciate the inspiration behind machine learning, let's take a brief look at its origins. The concept of machine learning can be traced back to the early days of artificial intelligence (AI) research. In the 1950s and 1960s, scientists and mathematicians were exploring ways to create intelligent systems that could learn and improve from experience, just like humans do.
