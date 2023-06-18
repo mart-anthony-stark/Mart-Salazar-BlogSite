@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/",
+  website: "",
   author: "Mart Anthony Salazar",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "Explore the insightful world of technology through Mart Salazar's captivating blog. Dive into the latest trends, development techniques, and thought-provoking discussions on programming languages, web development, data science, and more.",
   title: "Mart Anthony",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
