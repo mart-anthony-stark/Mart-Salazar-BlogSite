@@ -1,7 +1,7 @@
 ---
 author: Mart Anthony Salazar
 pubDatetime: 2023-06-18T07:56:55.309Z
-title: Ngenly CLI
+title: "Ngenly CLI: Streamlining API Development Like Never Before!"
 postSlug: ngenly-cli
 featured: true
 draft: false
