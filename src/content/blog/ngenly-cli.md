@@ -10,7 +10,7 @@ tags:
   - Npm
   - CRUD
   - REST-API
-ogImage: ""
+ogImage: "https://github.com/mart-anthony-stark/Ngenly-CLI/blob/main/image-3.png?raw=true"
 description: A powerful Node.js CRUD API generator that streamlines the development process by automating the creation of CRUD operations, enabling developers to focus on other aspects of their projects.
 ---
 
