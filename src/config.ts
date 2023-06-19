@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Mart Anthony Salazar",
   desc: "Explore the insightful world of technology through Mart Salazar's captivating blog. Dive into the latest trends, development techniques, and thought-provoking discussions on programming languages, web development, data science, and more.",
   title: "Mart Anthony",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "gh-banner4.png",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
